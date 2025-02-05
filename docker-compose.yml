@@ -1,0 +1,28 @@
+version: "3"
+
+volumes:
+  minecraftserver:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${PWD}/server
+      o: bind
+
+services:
+  mc-server:
+    image: marctv/minecraft-papermc-server
+    restart: always
+    container_name: Minecraft-server
+    environment:
+      MEMORYSIZE: "12G"
+      PAPERMC_FLAGS: ""
+      PUID: "1000"
+      PGID: "1000"
+      SKIP_PERM_CHECK: "true"
+    ports:
+      - 25565:25565
+    volumes:
+      - minecraftserver:/data
+    # The following allow `docker attach minecraft` to work
+    stdin_open: true
+    tty: true
