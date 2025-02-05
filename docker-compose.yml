@@ -1,29 +1,19 @@
 version: "3"
 
-volumes:
-  minecraftserver:
-    driver: local
-    driver_opts:
-      type: none
-      device: ${PWD}/server
-      o: bind
-
 services:
-  mc-server:
+  lindacraft-server:
     image: marctv/minecraft-papermc-server
-    restart: always
-    container_name: Minecraft-server
+    restart: unless-stopped
+    container_name: LindaCraft-server
     environment:
-      MEMORYSIZE: "12G"
+      MEMORYSIZE: "8G"
       PAPERMC_FLAGS: ""
       PUID: "1000"
       PGID: "1000"
       SKIP_PERM_CHECK: "true"
-    # ports:
-    #  - 25565:25565
-    network-mode: "host"
+    network_mode: "host"
     volumes:
-      - minecraftserver:/data
+      - ./server:/data
     # The following allow `docker attach minecraft` to work
     stdin_open: true
     tty: true
