@@ -1,12 +1,10 @@
-version: "3"
-
 services:
   lindacraft-server:
     image: marctv/minecraft-papermc-server
     restart: unless-stopped
     container_name: LindaCraft-server
     environment:
-      MEMORYSIZE: "8G"
+      MEMORYSIZE: "6G"
       PAPERMC_FLAGS: ""
       PUID: "1000"
       PGID: "1000"
