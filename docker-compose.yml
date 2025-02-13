@@ -9,9 +9,50 @@ services:
       PUID: "1000"
       PGID: "1000"
       SKIP_PERM_CHECK: "true"
-    network_mode: "host"
+    # network_mode: "host"
+    networks:
+      local_net:
+        ipv4_address: 192.168.100.2
+    ports:
+      - 25565:25565 # Minecraft port
+      - 127.0.0.1:8123:8123 # Dynmap
     volumes:
       - ./server:/data
     # The following allow `docker attach minecraft` to work
     stdin_open: true
     tty: true
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: unless-stopped
+    environment:
+       PUID: "1000"
+       PGID: "1000"
+    networks:
+      local_net:
+        ipv4_address: 192.168.100.3
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./data/nginx:/etc/nginx/conf.d
+
+#  certbot:
+#    image: certbot:latest
+#    restart: unless-stopped
+#    container_name: certbot
+#    ports: # For verification of domain
+#      - 80:80
+#      - 443:443
+#    volumes:
+#      - ./certs:/etc/letsencrypt
+#      - 
+
+networks:
+  local_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.100.0/24
+          gateway: 192.168.100.1
