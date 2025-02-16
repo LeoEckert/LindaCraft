@@ -1,3 +1,60 @@
+*.env
+data/certbot
 server/*
 !server/server.properties
 !server/server-icon.png
+
+# Clearlag
+!server/plugins/ClearLag/config.yml
+
+# Dynmap
+!server/plugins/Dynmap-WorldGuard/config.yml
+!server/plugins/dynmap/configuration.txt
+
+# Essentials
+!server/plugins/Essentials/config.yml
+!server/plugins/Essentials/items.json
+!server/plugins/Essentials/motd.txt
+!server/plugins/Essentials/custom_items.yml
+!server/plugins/Essentials/spawn.yml
+!server/plugins/Essentials/tpr.yml
+!server/plugins/Essentials/upgrades-done.yml
+
+# FastChunkPreGenerator
+!server/plugins/FastChunkPregenerator/configuration.yml
+
+# GuiEgine
+!server/plugins/GuiEngine/config.yml
+
+# ImprovedFactions
+!server/plugins/ImprovedFactions/commands.yml
+!server/plugins/ImprovedFactions/config.yml
+
+# Luckperms
+!server/plugins/LuckPerms/config.yml
+# Also add backup of groups
+# /lp export file.txt --without-users
+
+# Placeholder API
+!server/plugins/PlaceholderAPI/config.yml
+
+# PlayerStats
+!server/plugins/PlayerStats/config.yml
+!server/plugins/PlayerStats/language.yml
+
+# TAB
+!server/plugins/TAB/*
+
+# UltimateAutoRestart
+!server/plugins/UltimateAutoRestart/*
+
+# Vault
+!server/plugins/Vault/*
+
+# Worldedit
+!server/plugins/WorldEdit/schematics/*
+!server/plugins/WorldEdit/config.yml
+
+# WorldGuard
+!server/plugins/WorldGuard/config.yml
+!server/plugins/WorldGuard/worlds/*
