@@ -5,6 +5,9 @@ data/certbot
 server/*
 !server/server.properties
 !server/server-icon.png
+!server/config/
+!server/spigot.yml
+
 !server/plugins/
 server/plugins/*
 
