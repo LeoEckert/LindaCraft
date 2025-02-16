@@ -3,6 +3,7 @@ data/certbot
 server/*
 !server/server.properties
 !server/server-icon.png
+*.jar
 
 # Clearlag
 !server/plugins/ClearLag/config.yml
