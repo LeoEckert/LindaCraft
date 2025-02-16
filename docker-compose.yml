@@ -4,14 +4,61 @@ services:
     restart: unless-stopped
     container_name: LindaCraft-server
     environment:
-      MEMORYSIZE: "6G"
-      PAPERMC_FLAGS: ""
+      MEMORYSIZE: ${TOTAL_RAM}
+      PAPERMC_FLAGS: ${PAPER_FLAGS}
       PUID: "1000"
       PGID: "1000"
-      SKIP_PERM_CHECK: "true"
-    network_mode: "host"
+      SKIP_PERM_CHECK: ${PERM_CHECK}
+    networks:
+      local_net:
+        ipv4_address: 192.168.100.2
+    ports:
+      - 25565:25565 # Minecraft port
+      - 127.0.0.1:8123:8123 # Dynmap
     volumes:
       - ./server:/data
     # The following allow `docker attach minecraft` to work
     stdin_open: true
     tty: true
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: unless-stopped
+    environment:
+      PUID: "1000"
+      PGID: "1000"
+    networks:
+      local_net:
+        ipv4_address: 192.168.100.3
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./data/nginx:/etc/nginx/conf.d
+
+  certbot:
+    image: certbot/certbot:latest
+    restart: unless-stopped
+    container_name: certbot
+    command: certonly -d ${DOMAIN} --non-interactive --agree-tos -m ${EMAIL}
+    environment:
+      PUID: "1000"
+      PGID: "1000"
+    networks:
+      local_net:
+        ipv4_address: 192.168.100.4
+    ports: # For verification of domain
+      - 80:80
+      - 443:443
+    volumes:
+      - ./data/certbot:/etc/letsencrypt
+      - ./data/certbot/lib:/var/lib/letsencrypt
+
+networks:
+  local_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.100.0/24
+          gateway: 192.168.100.1
