@@ -1,0 +1,34 @@
+help: {}
+inviteaccept: {}
+icon: {}
+delete: {}
+ban: {}
+unclaim: {}
+reload: {}
+zone: {}
+leave: {}
+members: {}
+sethome: {}
+create: {}
+rank: {}
+claim: {}
+invites: {}
+join: {}
+power: {}
+map: {}
+info: {}
+invitediscard: {}
+home: {}
+transferowner: {}
+bypass: {}
+unban: {}
+kick: {}
+rename: {}
+chat: {}
+wilderness: {}
+force:
+  join: {}
+invite: {}
+add: {}
+set: {}
+edit: {}

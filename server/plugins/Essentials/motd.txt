@@ -1,0 +1,9 @@
+&l------------------------------------&r
+      &lWorld time: &c{WORLDTIME24}&r | &lPlayers online: &c{ONLINE}
+      &rThis server is powered by &l&cRedpill Linpro&r!    
+
+    &rWelcome to &4&lLinda&r&7Craft&r, {PLAYER}!
+  
+    &rType &a&l/help&r for a list of commands.
+    &rType &a&l/list&r to see who else is online.
+&l------------------------------------&r

@@ -1,0 +1,31 @@
+# PlaceholderAPI
+# Version: 2.11.6
+# Created by: extended_clip
+# Contributors: https://github.com/PlaceholderAPI/PlaceholderAPI/graphs/contributors
+# Issues: https://github.com/PlaceholderAPI/PlaceholderAPI/issues
+# Expansions: https://placeholderapi.com/ecloud
+# Wiki: https://wiki.placeholderapi.com/
+# Discord: https://helpch.at/discord
+# No placeholders are provided with this plugin by default.
+# Download placeholders: /papi ecloud
+check_updates: true
+cloud_enabled: true
+cloud_sorting: name
+boolean:
+  'true': 'yes'
+  'false': 'no'
+date_format: MM/dd/yy HH:mm:ss
+debug: false
+expansions:
+  playerstats:
+    update_interval_in_seconds:
+      distance_statistics: 1
+      time_statistics: 1
+    display:
+      max_time_unit: day
+      min_time_unit: second
+      distance_unit: blocks
+      damage_unit: hearts
+      processing_message_color: '#ADE7FF'
+      only_player_name_color: ''
+      only_stat_number_color: ''
