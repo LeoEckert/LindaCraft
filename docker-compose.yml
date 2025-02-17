@@ -25,7 +25,7 @@ services:
   nginx:
     image: nginx:latest
     container_name: nginx
-    restart: unless-stopped
+    restart: no
     environment:
       PUID: "1000"
       PGID: "1000"
@@ -33,16 +33,17 @@ services:
       local_net:
         ipv4_address: 192.168.100.3
     ports:
-      - 80:80
       - 443:443
     volumes:
       - ./data/nginx:/etc/nginx/conf.d
+      - certs:/var/certs/live
+      - archive:/var/certs/archive
 
   certbot:
     image: certbot/certbot:latest
-    restart: unless-stopped
+    restart: no
     container_name: certbot
-    command: certonly -d ${DOMAIN} --non-interactive --agree-tos -m ${EMAIL}
+    command: certonly -d ${DOMAIN} --non-interactive --agree-tos -m ${EMAIL} --standalone
     environment:
       PUID: "1000"
       PGID: "1000"
@@ -51,11 +52,11 @@ services:
         ipv4_address: 192.168.100.4
     ports: # For verification of domain
       - 80:80
-      - 443:443
     volumes:
+      - archive:/etc/letsencrypt/archive
+      - certs:/etc/letsencrypt/live
       - ./data/certbot:/etc/letsencrypt
       - ./data/certbot/lib:/var/lib/letsencrypt
-
 networks:
   local_net:
     driver: bridge
@@ -63,3 +64,6 @@ networks:
       config:
         - subnet: 192.168.100.0/24
           gateway: 192.168.100.1
+volumes:
+  certs:
+  archive:
