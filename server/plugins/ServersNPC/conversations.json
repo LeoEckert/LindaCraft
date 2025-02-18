@@ -1,0 +1,30 @@
+[
+  {
+    "name": "first",
+    "texts": [
+      {
+        "lines": [
+          "§a[Jonathan-Lång]-§rKöp-din-Guck-här!"
+        ],
+        "actions": [],
+        "delay": 35
+      },
+      {
+        "lines": [
+          "§a[Jonathan-Lång]-§rBästa-Gucken-i-Stan!"
+        ],
+        "actions": [],
+        "delay": 50
+      },
+      {
+        "lines": [
+          "§a[Jonathan-Lång]-§rGucken-är-gjord-i-Melins-Toa!"
+        ],
+        "actions": [],
+        "delay": 90
+      }
+    ],
+    "radius": 5,
+    "delay": 10
+  }
+]

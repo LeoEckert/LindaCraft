@@ -1,5 +1,7 @@
 .env
-data/certbot
+
+data/*
+
 *.jar
 
 server/*
@@ -75,6 +77,8 @@ server/plugins/PlayerStats/*
 
 # TAB
 !server/plugins/TAB/
+!server/plugins/TAB/*
+server/plugins/TAB/*.log
 
 # UltimateAutoRestart
 !server/plugins/UltimateAutoRestart/
@@ -94,3 +98,21 @@ server/plugins/WorldGuard/*
 !server/plugins/WorldGuard/config.yml
 !server/plugins/WorldGuard/worlds/*
 
+# DecentHolograms
+!server/plugins/DecentHolograms/
+!server/plugins/DecentHolograms/*
+
+# OpenAudioMC
+!server/plugins/OpenAudioMc/
+server/plugins/OpenAudioMc/*
+!server/plugins/OpenAudioMc/config.yml
+
+# ServerNPC / ZNPCs
+!server/plugins/ServersNPC/
+!server/plugins/ServersNPC/*
+
+# ServerListPlus
+!server/plugins/ServerListPlus/
+server/plugins/ServerListPlus/*
+!server/plugins/ServerListPlus/ServerListPlus.yml
+!server/plugins/ServerListPlus/Profiles.json

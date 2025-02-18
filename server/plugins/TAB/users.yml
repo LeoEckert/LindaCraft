@@ -1,3 +1,7 @@
+#_DEFAULT_:
+#  customtabname: '~%essentials_nickname%'
+#  customtagname: '%essentials_nickname%'
+
 _NEZNAMY_:
   tabprefix: "&6&lTAB&r &a"
   tagprefix: "&6&lTAB&r &a"

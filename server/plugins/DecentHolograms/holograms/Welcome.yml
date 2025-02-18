@@ -1,0 +1,28 @@
+location: world:-2101.468:75.000:-1125.508
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Welcome to &4Linda&8Craft!
+    height: 0.3
+  - content: '&a/f &for &a/faction&f to access faction commands'
+    height: 0.3
+  - content: '&a/help &6[command]&f to get usable commands'
+    height: 0.3
+  - content: '&a/audio &rto use &nproxy chat!'
+    height: 0.3
+  - content: '&a/tpa &6[player]&f to teleport to the given player'
+    height: 0.3
+  - content: '&a/msg &6[player]&f to message a player'
+    height: 0.3
+  - content: '&a/playerstats &f to see player stats'
+    height: 0.3
+  - content: '&a/helpop &fto message staff in secret'
+    height: 0.3
+  - content: '&a/nick &6[name]&f to change displayname'
+    height: 0.3
+  actions: {}
