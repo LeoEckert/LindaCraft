@@ -5,6 +5,7 @@
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTczOTgyNDIzNTIyNSwKICAicHJvZmlsZUlkIiA6ICJiZjFlMWQ0YzZmMjg0NmU0YTNiYzQwN2IzMDcyNDVmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhRGFubmUzNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NDczMWM2ZTdiYzI3YzhiNzM1NzQ1ZTNlNWU5MTEwMTUxODA3YTJjOWU4MjQzMTRjNTBjOWUwZjAxOWI4MmRkIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==",
     "signature": "NANAP4oGiPM7Y5cnFYCKP7ZqCNgtyXlw7JPVLdcA5/XTckWSALK1gfUkSDZZoUwZtecBMqc26Dm7iwL1OgVMGmXBUnWnD7tUlvL9FnA+gNNR/TDEoTwrLa0R8/VPWVEmqPJW6okNAazjxPIKp8R2qaZ3xcc23KksxEqZZZa+RtiGWYMfE+a8+zeOiRKWOqLWQQlI5HxqtrjUbZ862dTru55pHokXNXtlYKnOhuxuvebDsAjeFK3XXacA0LNDOzHmWVJfhLrPbOuZUCVeaSk0kYIUgl/7IUBpWnA8N+G6Epfeblphnscc3K5gX8fMeRaCZ8/f6POfzdkEZ8epZFQJycnrVFNUfY6pNngYbYQUpdp4J3ImPacBYbaRBE55exQJfZjf2X9ZhR69koCa5x8ICVpcyFSzu3aLUK2UJ3vXhNy9D4b4Kq6EQiYMPBdo1f899YIOeX+VIgXq+zhrl/88KeGXBZIIsSAdPddHgLKkuGRuOMi5R1mgdyE6mHtdKy5y7QOHScATSQ/4Y9Z0rmh1zy20O8KAk1R0SG1mv73qmAxLco0mcC/WNzaNy+1doi+tHlsmlgx2uQyBcIJkPVadSE2wZRYjwmKuDaQFSwTmm2VYW4w4LoDo8ZTuDipULu2Amn0kILSJVHYdN4iGiTY/IrtxvRJ/AmdriYv/MIUtq+E=",
     "skinName": "MegaDanne35",
+    "pathName": "none",
     "location": {
       "world": "world",
       "x": -2083.5,
@@ -134,9 +135,9 @@
   {
     "id": 14,
     "hologramHeight": 0.0,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTk5MzA5NjY2NCwKICAicHJvZmlsZUlkIiA6ICIyZDRiODQxOWFjOWI0Nzk5YjRhZGM4NzNiMGQxMWI5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaWVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg2Zjg4YmIxMzNkZTY4MDFjMjBkYTg3ZmIzYjc2MmFlMzA3ZmFmMzg1MGZmNzE5MjA2ZGY4ZjBmMGQ5ZjRmOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-    "signature": "LAy2n/gUBhcBbQ0IKWVO4+Nd7glVI1HHWrJR3s9OYXf7jG5/UUG62xDfvbBgAEU6I2yTJ28nyDXIqgHQspNpsJyrIwJ5ezpTWd0V/oAG9w1VB19ku9Ynkewg1XpVgvpBjg/YoGlT5V4++nPMh/SwSHuCzsdRq47u6C1IdDVyPszraJSJgcRul2looGO/KmR5j9zcY4Mn9l4EbXNCKnw6BmStXiRaN6opjJT9RFpDybHUvztEP/labq22TJs3pBDVQOVFf3Q8gkUBvbANSdGxQGE7FGMAt5AzFHBJR3PD8qslaMrzEH3XwHS4JXRXPQCzWIc+RYj99LJtNNHODeYg8cf9icTQiyesOO4dq3h31lvu7vAWwFLpg8zCEEmyiDSyRQqXUm4R/+iTT1jWBQcoes91fsKpFGD/p054AKYDSnFlJaCRhqPQwcMwiy7Qhmx4KlxmrIi5UY4D3cNmfX5d8QdS/vzevAOX58Z7AP0pTQhuE2GV1IOb6+lxG6UEEoJa8z6eQ0w7MRAQoJORAep0mxfKifeybVH8MAGWeISbPy1tqLDLANNnPb1xivjrrGQGLrp1VJbUfBDOgS7KW93pShVjgKE9fT1XyWX7wtGhVp/dvHi9rO3T6+knThGUlbt3ZgkBgO3vJ3J3+k8bbbEdPa17zmHnSOtxZBl/IgulHp0=",
-    "skinName": "Pierre",
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTczMjM4ODg1MDM3MCwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYXVuYWhpWmVhbG90Qm90IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxMzY5YzQzNzY0ODdhZjE1MzVkMWE4M2U5MzVhMWM2NjViMWRkOGE1YTcwNDE2NWMyOTVlNWM0MjdiOGU1YWUiCiAgICB9CiAgfQp9",
+    "signature": "PhJyRsIdAZgxtcbtidC5H6gXLNzlUqZH0KRBxou7oDlY10+9aO/Q2ly9n5xhpcS82L8+LP9qLURuGaGDLkNgrWaFk28gMCCk0DeV08wZW+clYbJivy9gGngs6w8qaXDFVJtkmh/etmAZg9ypKmQC2gTxqxhXv243vmERhp8n5LMEH/Ko1KoOI8Grj7XQs9D1eT1FFAw8Cl7o/qDrqD/JvsMMXsigs4j3jC6qZ+Hdl0lyM14eDqUac81qBmVw5Kt9Rh0bZZ2VXFix/+QKsiGUH3jWnZ+5F9jwR6WecgXH/NjMui+QAXRh2rb5B5PnSPPU1JqKPvmy5HwhOLFayChDzjeXtV4deDHjqQBi7G9aiwDQ6ij6tX8AtMx8gOS7Vi4mYL0/MhtARyb934HExWzelmcgrZjdg4fDVEPLtsgpgF6W91rXKQVWo4OtTefxifKGPCvLislWWQVEj1dQqpr2xrK6paFThuyQEOUudUI8Wu+tf5TZrc/A1UEiYZsXvlXXiYX3Kd79t8+AHhDnZi6NDkIcgkFr2PYZlo6q0iUXEKlyTd9a8Z3j0Fn2eIXVgcekxthb1r6KElZp1od8UjYlDVkPn+3RhQ463VFPc0Jf5HTuw2KN25UeNJLQuJMpTuNkc5ulwsPBegA37zskVp4LWkYnQV9la3Exf2x0NUce3rU=",
+    "skinName": "https://www.minecraftskins.com/uploads/skins/2024/07/01/red-shirt-22654722.png?v770'>Red",
     "location": {
       "world": "world",
       "x": -2117.5,
@@ -369,32 +370,6 @@
     "customizationMap": {}
   },
   {
-    "id": 22,
-    "hologramHeight": 0.0,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA3NDMzNTY2MSwKICAicHJvZmlsZUlkIiA6ICI3NWI0YzkzNWIxY2M0ODkzYmYxMDMwZmQ3NDRiMzAzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmFuZHBhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2NTJhOTQwYWJmNjY3ZjZmNmU5NmExY2M4YTQwMTFhMjkxMDc3OTRhNTZjOTA1MTUzMTQ4OTkzNDc1ODJmNGIiCiAgICB9CiAgfQp9",
-    "signature": "yAINvb9GO7Dlhoj9ZrFDuMGV3eAYJ8cXShd1yl8I0yiF4HMmyjvhy8zHC4qOWnFKn2/XXBQ8YNX5wDTyUdy4269BF6fOKfdvrUKOy6P4gzMVDOIGrVy7s3vDOCT8My/IccmOUFfOgnzsU0tgCZ5323/O2l93rkxFuUGynlL/u4KfkAMLmPUNLDdU2w7HPlFubHDSVIGyHqoC/V2qjrALLEpr8nqCTOuPvbIGNVuoaBdBfz8DV5xbA9XnSQlIfHCnhE5+kWp75by3gtUnLEcf9AXWvYakw76ARWJpEg6Vo0cTqQUe7BhPdRVvvG0S4mDpNriwg+wCXEpOQfHNrrgPP6ENUNPlwg9cUOTjdwgfJlDvbwgliBqZkerA54VnulGtSt9Qgvst1zf4mphdZxS9iwEjzTcKFAr8wGWY8wulB+MWY2T7ck32TWmCcXdta4Y5htoevngNTyG8YIIwv7E9sRmtiMpSilOBodd4SZLi0ifuLoov7/4k5/0xBQEHm2np+kpV4Kg0nyjPFIO72acc4LuNVSUQW4KHbggxivI/l4qF3XZ16wXDLQG0XZJetarzomr+dNb9kEWCkdgpFM9vRSM6/KnOkCyYkwMCRWmhHut/JXUq5q96Yc+NiRx6ZKPkl5FYYs/ApwHXo2GvGWvl4aMpWzqg9bnjrvBRBsIH3HU=",
-    "skinName": "grandpa",
-    "location": {
-      "world": "world",
-      "x": -2134.5,
-      "y": 69.0,
-      "z": -1100.5,
-      "yaw": 177.709,
-      "pitch": -1.2000042
-    },
-    "npcType": "PLAYER",
-    "hologramLines": [
-      "Johan-Sören"
-    ],
-    "refreshSkinDuration": 0,
-    "clickActions": [],
-    "npcEquip": {},
-    "npcFunctions": {
-      "look": true
-    },
-    "customizationMap": {}
-  },
-  {
     "id": 23,
     "hologramHeight": 0.0,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjAwMDA0MDMxOCwKICAicHJvZmlsZUlkIiA6ICIxZDg4ZjYyMGE0OGY0M2ZiODg1MGE0NTYzMTAxMmViMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZWFjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OGUzMTMwMjZjZDhiOTA1M2Q5ZjkwOWM2OGMxMTE2ZWVmOWE4ZGQxZTllY2Q1YjU5MjJjNjkxZjlkYTJlOTI5IgogICAgfQogIH0KfQ==",
@@ -602,6 +577,187 @@
         "delay": 25
       }
     ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 111,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTczODI3NDYwNjYyOCwKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQUxLX0FMT1RfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3NDYxZWIxZjdmMDBjYWNkMGNlYTY2MDM4OWRjMGRiNTQ4OWUxNzkzY2ExYzVlMTczNmZiM2Q1MmFjMzIxMmIiCiAgICB9CiAgfQp9",
+    "signature": "Till8N4wnpa+sHgcBdJRWkjxZgyAFj8TZTtZC5QRuQSsAzVmKE2Pkidj8u3VSCA20FXfKBz7zBofuNP5IGF8dNViXXTDa3zv/kBlhEDwK0Vv6JgAKfpViTQsfyJFA3oiUngzRuP+nrfbOJ/9Dob1G5QJwLPCJU/TX8tdCEh6K3rJgkajLSNgWwLuxFSoq/AGDPgdT2vtkl2KMD69+iOo+sQ4q7i66tK/Lu4Fo6LMJkGHpwrtxI1PhrWyjRv0aly0jHTAS/fZs/99pDyC9AJtSgv6HzSE+1Ue5HE6NV93R8yZLZ3BEGE/qG0pnUqGyutctyyYYV+hl2J2OI2x7DE8aj6EqjYVBNi9SaS1iTvV2O2Pw1WguxkZZ4Vis+guae1QMUbrZwq9COyrYApHjupuYT0gayOC4HDQnq9CSiHum+zi6KQA1zyngZpzg2UEwUxZfNEIOd990VS1EwdKL8tuCivxEvZQI2xCjV/sNah6EGWJ0uRBtLJQyRk3FNYWiiO54FCXZOqCKo+QnWRhDvktmTp8ILazQUcJ39cjnELfAP09M9L32Uj0Dt1AimOTeOf9oSXJEoPGurwqS0wZkE5lQuf2IJcegVOPcjQRQ2U9/16DVCN25BSef1x5Vz5o9P0Hdy21uK/1Jpza4Xlz5qxr/XCTOLA+AgJuDN1JkEsaYiw=",
+    "skinName": "https://www.minecraftskins.com/uploads/skins/2025/01/30/baker-barbu-23030674.png?v770'>baker",
+    "location": {
+      "world": "world",
+      "x": -2084.5,
+      "y": 72.0,
+      "z": -1146.5,
+      "yaw": -9.076538,
+      "pitch": 23.862288
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Lukas"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 222,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTczOTkwNTc1NzY2NiwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lN2EyMTE2YzA1NzNlZDcyMmFmNGQzZTdiZDRhNzNhYjY1ZDI1ZjYyNDJkOTNjMmJlMmI3NDVjM2I4ZDIxYjMiCiAgICB9CiAgfQp9",
+    "signature": "NfgkDr/91v8tMwhpyckJXdYCZ+1RbT0607KEXioQ1tiNJZP8F587OVDb56sUuqPZwom0NNh30JAxkd1NEihwbWE8eJl2BEgTV3S0+ebbLDKn/3atJ2PtEY7x/Kqgcx6peupMHaa1KjcPoz87n/gSmclweyEpxiBX7SETyM94bdeqUJtxqU1s50OULrd/SOKXuFmbmJUUpvQDlOfPJGVAHRs9tZjzJFEJO4EXO0wtUDnDGJlJI4nEM+wV2XlHCxhiw3lZHhQDgd1exSHYVzomg7xQzYR09Zhgq+5Q/3SK22bEFEMg/+eo6f6ys1TlYnf0bx+yr3jivTbmwW7otAyKFxTVAqPplxA6y2Wg+MEFHGSJkQYCmrq0s+sMqBf+QjupH5pfwt0tMqlOkyJQtpdcxEvRqW3CyAGDo0bwZt+RXAZNEmHp9/wAfYSPjL4kw3rzdGaoHbdf+dSZm3fPWgBaX+rf9mC6PIEzeCYhVRHoQUb6AVF8nL8BglShQjKiZzae9D6RcwOP2Vkkfq5KPoSOlQumbNjogWG6w6ycfZCxjrsqO1eE/v0sHUY6173SqcfmR6Jmq80oUH7T4IEtQfjmm+XpombtpINQ4RiUDSGH4ZmeX0fDlQN24DgHCWZPKFh57uaWzavDZXPS9TNODBXaDoiKL+8EHY+UErdeTiZdLiU=",
+    "skinName": "https://www.minecraftskins.com/uploads/skins/2020/11/14/kent-agent--or-just-a-agent--15759897.png?v770'>Kent",
+    "location": {
+      "world": "world",
+      "x": -2074.5,
+      "y": 72.0,
+      "z": -1144.5,
+      "yaw": 93.92749,
+      "pitch": 38.86203
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "KentAgent"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 5,
+    "hologramHeight": 2.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTk2NDMxOTI0MSwKICAicHJvZmlsZUlkIiA6ICIwMWQyNzE2YzNiNmE0YTEzODkwM2Q0NjJjMDgwZDU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMDYwODZiY2EyNWNmNWM5N2UxYWM1ZDQ4OTFkN2EzMDgzMWVlYzJjN2E2YjA2NDFmZDVlNGM5YWUwY2MwODA3IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lN2RmZWExNmRjODNjOTdkZjAxYTEyZmFiYmQxMjE2MzU5YzBjZDBlYTQyZjk5OTliNmU5N2M1ODQ5NjNlOTgwIgogICAgfQogIH0KfQ==",
+    "signature": "Gvcs2sdazx+1i3TlqDQGhwy5eZrv+jREWWFVagDZTvh2qu4/cGUIOdMCarJMW33QxO9gO2lk1uPugjsh0fjt6pRFQhjUjAxz4adnJ/6b12oVAw+cZbsjKnaCuJeWOV6vCLTN8s6SsJRzlyyCfKvKim1rdCubpPyuhrcn35jv8Oq+AvMg2svgIiiJNMh+iAn31x47AVGsJD499worrcyAkDZpabmJQ8gtU5oxorcyAuocBJcTa4MyiEbKxdxegveDtCkjaXiT0ACah8Jutz1MPVUr7qK+kF7X5G3KQz/2rO499nhBpt6dI3pbiNkylWBr/frxYN9277ha9E9j8VJZHzmeVKVd5Vo5coXOv2PkMEK10hTHdDCX4RTyWZ6k9V6doqn4uRlOMNgpOmPfeus0Hq+TY0xiA/9vp2/BrGUQrPou0HtuPlUc18sV2bg+IpCk6ai4iU4h2IfeMJrVZ5cx96FNIRDtX3MLoYKVWA4tX7Z4un5jsVNjsewxFDp+ioj7KRpaP3TFfkiMB+KDD+/ULAeK2TrB30UzupXdycnCqjpcODjVmJ102Eu3R6KAR3zkqUsupXoIlrShxUbQLKGoalKc6i6q6SqZlK8GVVWX/Z9L9ccQaCb8mQYL2kQTeMs3iJtu5ged86OJBCXJ5CkWitiMfpqoctXP1Du1/n2LxD0=",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": -2063.5,
+      "y": 68.0,
+      "z": -1073.5,
+      "yaw": 89.36713,
+      "pitch": 7.0499034
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "David"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 51,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTkzNTQ0MTA5OCwKICAicHJvZmlsZUlkIiA6ICIxZjI0ZTllMzhkMzQ0OWRiOGFjMWI4OWQxMGIzMjYxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdXJraXNoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhNTFlOWU2NWM4MWVhM2QyMmYxOTZlOTVkMWU0YWY2NDMyZDVmYzljNzE0NmUwNGY3NTI4NTA2ZWQ0ZjcyZTAiCiAgICB9CiAgfQp9",
+    "signature": "FT8PnathF/UhayZkdCWJr4mRXENB4glvKCERgR6YhFpCC2IrsekOKezsSkK1xK7xxmdjUSTM7RUVsDoiEFKc2y9ymMa7uirMoZZaWJ+c58/K0NMArH8E0gN7L4kIzD4YsFEbjxXWf+SG15ZHqUTtyMz/tseVuZjXaud8zDd5xkH6r6Iq+Vf2vCb0TFi8YOk6E4SFZKHI8U6ayNNyWiLwQ70j96aQboCvxvMZ4IBK3whVbYELf3jz6IjlQEekFBJk0pUCLp0SjadYlSvq7cmIY2dqL9PvCFWIkGsRuez2M8V53TDrtoumVvlnTibfONy6yatzw96OJmekMUiA5d9PzDNtUOFt5yoDcM0gFuGnw970d/IE9G5IhuTwRaDJcx5e+v+vv6wZWv55ZFf3s58WQfq885QLi7Rv7Lv9ej29JCb1e8YpAZizMVEA5AMNtYW43B5nz2F0ERkwQEjggOtpf0IYbJxfxAURLp2WlK7b4QBc+r5Hvht4TZ2hVzLIr2hPwFfqr1gJlgQKpWV8eBKULaEjeI4MLioi7nAiuGFwvxAZ6vIuSxh9vIfyM2PFJbIq9sklVmoC2OQA+x/Px9L1aBooN/vaKGU8SisXRD4hyfGDB4+ws4HfqHhJhFDM0heANxgw2SF+6lpb6kibWqNaDfGEY6VWsDaFW80O9B1KxRo=",
+    "skinName": "turkish",
+    "location": {
+      "world": "world",
+      "x": -2057.5,
+      "y": 69.0,
+      "z": -1089.5,
+      "yaw": 84.86963,
+      "pitch": 33.150047
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Mr_Prince"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 53,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA0NDkwNTAxNiwKICAicHJvZmlsZUlkIiA6ICI5MWRhMjg0ZGIwNTE0ODhjYTAyNzBlNzQ1MmIzZmRiYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYXRtYW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzgwNGUxZmQ2MjBmNGM3YzlmZjM2ZTA4MTBiZjc3Yjc5NjYyZDc1NzU5ZjkwYWU5OTIzMzY2ODJiMTc4OGFiMCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=",
+    "signature": "YTkYqwVrRu/f5BQ+c4nZx1+oOh/iJsygnAzJnIu32k7vdpzLwZWnGWo4/bSyIRL6ZbKUAf7O44yupMgT2LWo4/8bTzx88q3Hrdh9jPlFVsm2IDkJNIDwOcE395zConMW+Rzgp1B6R3/fzTipVVQSQ4X9SCpiV2mCCN6GLfs92VBikMt8H1750vydiY8HxbZkPV1n+IuB6iGFOFtIoo2SuJ5NnNHozM7k1oguRogg3HBBTu3BsZYhPc22042SS9S2Zq2JEx67QBxlI4A78nD5GvfnPiHv+J1WpGjYKs0xPBBSgSDX+up9nypkCSjtuMCEI/xIpfGVJm+yA7NA0/rXNfmKTdLu8GHU0g+8DOSFo5MUuKOe4M4Sdo2rtm+rdYO7b5rA30dqFi1mXw2dSDV0KNh71wpxYgkPfHTRI0BVz3BDBXuCqbREygdc+6qcEtI3uwhqkyb12eSlhCe/fOz1qYq7X1jjG+xvOXa7/MXMK0jAVTSiq34drhNhKYQ5Q/QJt0HHKP1Mk/BB7YR5gAa1jjcei88kvU9XjHm3BpjQ9+uDHp0LhYzkKGVvmxFUWhunz78i8CXFwfBdfiUr3fYXBJiU7gqisoNCtlQB/L/nAnVTU9iph77bPRkpo47Nm4i8zGF9XSp742Ueyb8HMGtrtlDt5ob1Ii2L5bl97ClA0sw=",
+    "skinName": "BATMAn",
+    "location": {
+      "world": "world",
+      "x": -2073.5,
+      "y": 90.0,
+      "z": -1090.5,
+      "yaw": 142.39453,
+      "pitch": 3.450133
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Batman"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 55,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTE3MDA2Nzg5OCwKICAicHJvZmlsZUlkIiA6ICJjZjg0ZDg5N2Q0NWY0MmRlOTY3OTg3YzQzMGJhMzdlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbGRHdXkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkxOWRlYjE0ZDMyMzZlNzk0ZmM5NzdhMjAzZmVkZWI0ZDBmNzkyMDRlMTJlMTQ2NzgxYmJlNTJkYTk1NGI1OCIKICAgIH0KICB9Cn0=",
+    "signature": "iB9yAAUFVu8xlaajEljhnJaXToXI38fQ9onSL/6hFM8qxcIsioH0oDu9xUG9mC682aQR3LHZHwq+rVAq02VIKKJzCfwj2cAYKpkVePsD4nhrVSfKTwMXLirh0K5fFxL6kpjklw3D+0wKoH1Ix5h8E3KCME9IdpBmNYmKCce1zz5Vqq5zdKsZzS0bRf0RGOoJTIvQvea9zD8c87GHsHXl9LmY1CEQKKw+MPb9+Ij8UfwpC31JuTWy9Y7HxJb8cNazePahyrKjfwwDVGQW5N4E54ZbukGQ1vrXeFgxolxtVZfZ9k19R8g7BF80BcNd45e+AW4Pkzg2Cw5g0xJa+dLD+zjDDvFyWqTiUXgSuc9Q7gXb9QBh2bK9/rBhvUMy7WFONMPGWdswt8OCCtf5IojI98mdvowmd8O5py6Y/w36aF2xmsrWLgMhm8HdKTbXP5+uj9fxuNZ82Ss5LZKwUDfGABu2Sp7D3QTWgPTycKTy4eWxsUAfsbUSLf2MVUu/BCwGu3hc9Qa1mPpWNn4+9VX+sQ6CKtZ14bnnxSQoYl3tLag5AUjdP2zTmTLBYK4YIyojHgXOmVaE26K9pQpJ9mEW6+jGYzLR0AU0Lh3g2y6l1xNK1KI5w0dAJQnneA9J4iGYeqjO9AAw4HmZbTci70fY+zzMIy9Cg7thlMGrWBWEpmw=",
+    "skinName": "OldGuy",
+    "location": {
+      "world": "world",
+      "x": -2133.5,
+      "y": 69.0,
+      "z": -1100.5,
+      "yaw": 168.89014,
+      "pitch": 0.75002795
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "John-Sören"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 58,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjAwODk0MTkwNywKICAicHJvZmlsZUlkIiA6ICIzMDM4N2Y1Y2Y3NDY0NzIzYmE5MWZmZTk1YzA2NzQxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb3AiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE1ZWU4YTliOWFkOWIzZWFiNWZmZTRlZjM2YmJmNWY3ZDUxY2FlMTJkZWQyMDgyYzNkNzEyZjA3ZjFmNjZlMCIKICAgIH0KICB9Cn0=",
+    "signature": "NS2kS7l4ukOaD2HDM5QD9dN9ukeAeRNPWyBK0KK4r/2Kt0UTfd1+iChQpqOxNRAthiicTEuq19G3ASpqBlMUntuJxWwj9Kb/kvPBR9Xx/jZYbsgkxuy0Z1hXACdJeqy7aqW+ZztHy7Q818COT5swbjOy0XmnI3QGqp0m3q6tkj6jxdDFRcudwSMuIm+2yX6NS9ouf/vEbYHaC7H+zTLBKtE8DQnW0chpv/gBqsnh3qudJlb8TDV5vtcgOEXn6FFMhQx+bNQ4C2yeYTAUNGVfmLATPQj5yPUNu4yKtRKR6r8fcoilY6i/tUtRlA54Kt14yFXOwPe5aaIB9Gx0eAFCu0hg8yy55xfgaRAdO3qUfpzLh2wRBbnDwrol02t9TX9ACYsPL2U3SbxTwP+NKGzFOZzV/ubXSkqXLTj9NUujj8jkk5Fej/aAD5U4IcctVaEQAIXWTl/tuBkgjF12BOneTjqrpngX1UN7fabB3ZZBo13kyZKNvYpNPS3WY0Lsyv9IkPvLPCrOvwgQ6uDqrVY738mtE+h2S1vlB/ufetbW8IULDsoQNfLlUNQu5SYyg9miTR0VVN8smwiUstb+iiD4NqnlCRlv1vrC5CRR0TtmUqFQAJXtyOaPOa1mFnSeSB8sKi8FoQOi5MNm855e571BTdzXUypiZV3imHK+ujMj4jE=",
+    "skinName": "Cop",
+    "location": {
+      "world": "world",
+      "x": -2063.5,
+      "y": 72.0,
+      "z": -1138.5,
+      "yaw": -2.0733643,
+      "pitch": 4.049948
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Popo"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
     "npcEquip": {},
     "npcFunctions": {
       "look": true

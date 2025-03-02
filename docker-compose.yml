@@ -14,8 +14,9 @@ services:
       local_net:
         ipv4_address: 192.168.100.2
     ports:
-      - 25565:25565 # Minecraft port
-      - 127.0.0.1:8123:8123 # Dynmap
+      - "8001:8001" # Minecraft port
+      - "8001:8001/udp" # For voice chat support
+      - "127.0.0.1:8123:8123" # Dynmap
     volumes:
       - ./server:/data
     # The following allow `docker attach minecraft` to work

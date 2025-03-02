@@ -103,9 +103,9 @@ server/plugins/WorldGuard/*
 !server/plugins/DecentHolograms/*
 
 # OpenAudioMC
-!server/plugins/OpenAudioMc/
-server/plugins/OpenAudioMc/*
-!server/plugins/OpenAudioMc/config.yml
+# !server/plugins/OpenAudioMc/
+# server/plugins/OpenAudioMc/*
+# !server/plugins/OpenAudioMc/config.yml
 
 # ServerNPC / ZNPCs
 !server/plugins/ServersNPC/
@@ -116,3 +116,8 @@ server/plugins/OpenAudioMc/*
 server/plugins/ServerListPlus/*
 !server/plugins/ServerListPlus/ServerListPlus.yml
 !server/plugins/ServerListPlus/Profiles.json
+
+# Voice chat
+!server/plugins/voicechat/
+!server/plugins/voicechat/*
+

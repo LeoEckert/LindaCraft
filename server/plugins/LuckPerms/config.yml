@@ -404,8 +404,8 @@ auto-install-translations: true
 meta-formatting:
   prefix:
     format:
-      - "highest_on_track_users"
       - "highest_on_track_staff"
+      - "highest_on_track_users"
     duplicates: first-only
     start-spacer: ""
     middle-spacer: ""
