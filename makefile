@@ -1,3 +1,6 @@
+#Hallo
+
+
 .PHONY: start
 start: ## starts the minecraft server
 	@echo "Starting Minecraft Server..."; \
